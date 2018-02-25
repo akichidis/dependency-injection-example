@@ -1,0 +1,5 @@
+rootProject.name = 'dependency-injection-example'
+include 'dependency-example-api'
+include 'dependency-example-service'
+include 'external-implementation-lib'
+
